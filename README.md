@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on SCP: SL Remake
 - 😄 Pronouns: C#/C++
-- ⚡ Fun fact: my real nickname is Сабака Чабака
+- ⚡ Fun fact: my favorite web-series is Murder Drones💀

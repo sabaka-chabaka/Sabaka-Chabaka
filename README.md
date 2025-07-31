@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on SCP: SL Remake
 - 😄 Pronouns: C#/C++
 - ⚡ Fun fact: my favorite web-series is Murder Drones💀
-- ❤️ Open-Source = Best for coders
+- ❤️ Open-Source = Best for programmers, one love

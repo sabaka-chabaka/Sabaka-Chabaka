@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabaka-chabaka
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Unreal Engine, Autodesk Maya
+- 🌱 I’m currently learning Unreal Engine, EXILED SCP SL MODDING API
 - 💞️ I’m looking to collaborate on SCP: SL Remake
 - 😄 Pronouns: C#/C++
 - ⚡ Fun fact: my favorite web-series is Murder Drones💀

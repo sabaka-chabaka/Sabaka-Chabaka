@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Unreal Engine, EXILED SCP SL MODDING API
 - 💞️ I’m currently working at my project **СабакаРП** and **RIOT Shield Squad**
 - 😄 Pronouns: C#/C++
-- ⚡ Fun fact: my favorite web-series is Murder Drones💀
+- ⚡ Fun fact: my favorite web-series is Murder Drones💀 and Alien: Earth
 - ❤️ Open-Source = Best for programmers, one love

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabaka-chabaka
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Unreal Engine, EXILED SCP SL MODDING API
-- 💞️ I’m currently working at my project **СабакаРП** and **RIOT Shield Squad**
+- 💞️ I’m currently working at my project **СабакаРП** and **SabakaBrutal**
 - 😄 Pronouns: C#/C++
 - ⚡ Fun fact: my favorite web-series is Murder Drones💀 and Alien: Earth
-- ❤️ Open-Source = Best for programmers, one love
+- ❤️ Open-Source = is best idea

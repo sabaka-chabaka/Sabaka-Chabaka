@@ -4,7 +4,7 @@
 
 <h1 align="center">🤗 Hey, I'm <b>Sabaka-Chabaka!</b></h1>
 
-<h1 align="center"><b>C#/C++/HTML/PYTHON DEVELOPER</b></h1>
+<h1 align="center"><b>C#/C++/HTML/UNREAL</b></h1>
 
 <h2 align="center">🖥️ Programming Languages I know:</h2>
 

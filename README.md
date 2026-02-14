@@ -4,9 +4,7 @@
 
 <h1 align="center">🤗 Hey, I'm <b>Sabaka-Chabaka!</b></h1>
 
-<h1 align="center"><b>C#/C++/HTML/UNREAL</b></h1>
-
-<h2 align="center">🖥️ Programming Languages I know:</h2>
+<h3 align="center">🖥️ Programming Languages I know:</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -16,6 +14,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white" />
 </p>
 
 ---
@@ -26,7 +25,7 @@
 
 ---
 
-<h2 align="center">🔗 My Link</h2>
+<h3 align="center">🔗 My Link</h2>
 <p align="center">
 🌍 <a href="https://discord.gg/CK6cU8b9yV">CабакаРП</a> • 
 </p>

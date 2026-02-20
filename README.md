@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <i>“Coding is beautif till your mental health go down”</i>
+  <i>“Кодинг это когда ты забываешь о всех проблемах и пишешь любимые проекты, восстанавливая ментальное здоровье”</i>
 </p>
 
 <p align="center">

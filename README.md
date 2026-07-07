@@ -23,6 +23,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabaka-chabaka&theme=tokyo-night&hide_border=true" />
 </p>
 
+---  
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabaka-chabaka&layout=compact&theme=github_dark)
+
 ---
 
 <h3 align="center">🔗 My Link</h2>
